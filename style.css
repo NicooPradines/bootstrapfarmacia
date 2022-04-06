@@ -1,14 +1,30 @@
-
-
+*{
+      box-sizing: border-box;
+     
+}
+body{
+      background-image: url("assets/images/towfiqu-barbhuiya-w8p9cQDLX7I-unsplash.jpg")  ;
+      background-repeat: no-repeat !important;
+      background-size: auto 201%;
+      
+}
 
 
 .container{
-    height: 700px;
+    height: 650px;
     background-color: rgb(211, 206, 206);
     margin-top: 12vh;
-    box-shadow: 0px 0px 5px 1px black;
+    box-shadow: 0px 0px 5px 1px rgb(231, 230, 230);
+    margin-bottom: 10vw;
+    
+    
+
  }
 
 
 
 /*FORM*/
+.btn {
+      border-color: rgb(0, 0, 0);
+    
+}
