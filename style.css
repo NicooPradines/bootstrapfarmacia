@@ -24,7 +24,9 @@ body{
 
 
  
- 
+ .li,a{
+      color: black;
+ }
 
 
 /*FORM*/
